@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "63640562cc8e8b7208e04e0b",
+        "title": "Electrical System",
+        "Image": "https://ibb.co/30tzQ2g",
+        "price": 20000
+    },
+    {
+        "_id": "636405625511d6c27a9a419e",
+        "title": "Engine Diagnostics",
+        "Image": "https://i.ibb.co/WcStjZm/Rectangle-7.jpg",
+        "price": 22000
+    },
+    {
+        "_id": "63640562cc4c44aa1593cad6",
+        "title": "Auto Car Repair",
+        "Image": "https://i.ibb.co/F8nTfQ9/Rectangle-7-5.jpg",
+        "price": 26000
+    },
+    {
+        "_id": "6364056260ab4d41a835faa1",
+        "title": "Electrical System",
+        "Image": "https://ibb.co/ZhMSskS",
+        "price": 26000
+    },
+    {
+        "_id": "63640562c9fe3d91cfc2a5ff",
+        "title": "Engine Diagnostics",
+        "Image": "https://ibb.co/nrSPGxq",
+        "price": 21000
+    },
+    {
+        "_id": "63640562c9fe3d91cfc2a5fe",
+        "title": "Auto Car Repair",
+        "Image": "https://www.linkpicture.com/q/Rectangle-7-5.jpg",
+        "price": 21000
+    }
+]
